@@ -6,7 +6,7 @@ library(lspline)
 library(broom)
 
 df <- read_csv('hotelbookingdata.csv')
-df <- rename(df,city = s_city,distance = center1distance)
+df <- rename(df,city = s_city, distance = center1distance)
 
 city_data <- filter(df, city == 'Paris', year == 2017 & month ==11 & weekend ==0) |>
   separate(accommodationtype, '@', into = c('garbage', 'acc_type')) |>
