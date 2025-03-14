@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/faf1049d-abb5-4206-82ac-8c3fa98ffb17)# Hotel Price and Distance Analysis - README
 
+Report Link: https://drive.google.com/file/d/1x8Ehu-Z7eSU6eq8IpCqULoJFn0NPE7eu/view?usp=share_link
 
 ## Project Overview
 This project is a data analysis study focusing on the relationship between hotel prices and their distance from the city center in Paris. The study aims to determine pricing trends and provide insights into the best hotel deals based on distance. The project includes data preprocessing, exploratory data analysis, regression modeling, and model selection.
